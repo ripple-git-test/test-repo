@@ -3,6 +3,4 @@ test-repo
 
 This is a test repository.
 
-This is a test change.
-
-This is another test change.
+Undoes test changes, which is itself a test change.
